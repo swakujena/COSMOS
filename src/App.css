@@ -1,0 +1,60 @@
+:root {
+  font-family: "dinnextproregular, Helvetica Neue, Helvetica, Arial, sans-serif";
+  font-size: 20px;
+  line-height: 1.42857143;
+  color: #6e6e6e;
+  background-color: #fff;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.fa-mobile {
+  color: tomato;
+  font-size: 0.6rem;
+}
+.header.nav-link {
+  font-size: 0.55rem;
+  padding: 0.2rem;
+  color: rgb(144, 134, 153);
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.site-name.navbar-brand {
+  color: tomato;
+  font-size: 1.5rem;
+}
+
+.menu.nav-link {
+  font-size: 0.7rem;
+  padding: 0.2rem;
+}
+
+.search-engine {
+  font-family: "dinnextproregular, Helvetica Neue, Helvetica, Arial, sans-serif";
+  font-size: 0.7rem;
+  text-transform: uppercase;
+}
+.search.btn {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  background-color: tomato;
+  color: wheat;
+}
+
+.fa-heart {
+  color: tomato;
+  font-size: 1.3rem;
+  margin: 0%;
+  padding: 0%;
+}
+
+.fa-shopping-bag {
+  color: tomato;
+  font-size: 1.3rem;
+  margin: 0%;
+  padding: 0%;
+}

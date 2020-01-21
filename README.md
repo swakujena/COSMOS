@@ -1,2 +1,0 @@
-# COSMOS
-Created with CodeSandbox
